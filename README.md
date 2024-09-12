@@ -13,4 +13,8 @@ Github：https://github.com/Har-Kuun/OneClickDesktop
 
 安装教程
 可以使用sudo权限用户或root用户(不建议)登录服务器SSH，然后执行下面的命令即可。
+中文安装方法：
+wget https://github.com/love5461/ontime/blob/main/OneClickDesktop_zh-CN.sh && sudo bash OneClickDesktop_zh-CN.sh
 
+英文安装方法：
+wget https://raw.githubusercontent.com/Har-Kuun/OneClickDesktop/master/OneClickDesktop.sh && sudo bash OneClickDesktop.sh
